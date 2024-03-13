@@ -1,0 +1,2 @@
+Whiskers,cat,3
+Buddy,dog,5
